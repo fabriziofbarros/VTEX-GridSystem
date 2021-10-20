@@ -2,7 +2,7 @@
 
 This system allows shoppers to quickly and agilely buy products that are normally purchased by combining their attributes. We can examples are a shopper who needs to buy T-shirts of various sizes and colors in bulk.
 
-![Media Placeholder](C:\Users\fabri\OneDrive\Imagens\Capturas de tela\Grid.png)
+![Grid](https://user-images.githubusercontent.com/9255820/138163226-c7a5de4e-f350-4ff7-a0fd-32cbe8de0b04.png)
 
 ## Configuration
 

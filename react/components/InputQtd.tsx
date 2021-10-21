@@ -55,7 +55,7 @@ const InputQtd = React.forwardRef<HTMLInputElement, Props>(
       return (
         <td className={`${handles.AttributeStockNull} tc bb pv4`}>
           <Input
-            className={`${handles.AttributeStockInput}`}
+            className={`${handles.AttributeStockInput} tc`}
             {...props}
             ref={ref}
             type="number"

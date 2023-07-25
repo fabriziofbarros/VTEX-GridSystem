@@ -65,6 +65,6 @@ The first thing that should be present in this section is the sentence below, sh
 | 'AttributeStock'       |
 | 'AttributeStockInput'  |
 
-## Contributors ✨
+## Contributors 
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
